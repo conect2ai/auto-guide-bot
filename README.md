@@ -18,7 +18,9 @@ Antes de começar, você precisará ter o Docker 🐳 e o Docker Compose instala
 
 1. **Clonar o Repositório**
 
-   Clone este repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/conect2ai/auto-guide-bot.git
+   ```
 
 2. **Construir e Executar com o Docker Compose**
 
